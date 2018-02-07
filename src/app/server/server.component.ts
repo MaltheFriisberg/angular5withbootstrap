@@ -1,4 +1,4 @@
-import { Component } from "@angular/core/src/metadata/directives";
+import { Component } from "@angular/core";
 
 //tell angular this is a component
 @Component({
